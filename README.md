@@ -1,4 +1,4 @@
-![image](https://github.com/hycarbon-b/GTC_DataGroup/assets/63985695/383ba0a8-5efa-40fd-96da-2ba6f117a122)# GTC_DataGroup
+# GTC_DataGroup
 ## 11.16
 由于下半学期时间安排比较紧张，调整组内学习形式。主要分为三个板块：
   1. 袁策同学负责数据分析的基础教学+组织案例研讨，本学期或者下学期继续参与数据分析
