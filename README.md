@@ -17,6 +17,5 @@
   4. 学习深度学习基础，学习路线请点击链接查看[Deep Learning Task1](https://github.com/hycarbon-b/GTIIT_DeepLearning)
 
 
-## 11.25
-小组会议，进行下次大型组会的分工：
-  1. d
+## 12.18  
+进行分工，确定好如何建立网站页面，并更新每次活动相关的信息，做到公开透明易查阅
